@@ -1,0 +1,49 @@
+table{
+    width: 100%;
+    height: 600px;
+}
+
+table, td{
+    border: solid;
+    border-collapse: collapse;
+    border-color: rgb(97, 97, 97);
+    border-width: 2px;
+    background-color: rgb(83, 83, 83);
+    
+ }
+
+#tableFrame{
+    margin: auto;
+    background: rgb(197, 197, 197);
+    padding: 10px;
+    padding-bottom: 50px;
+    display: flex;
+ }
+
+h1{
+    text-align: center;
+}
+
+.buttons{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.container{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul{
+    list-style: square;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
+
+h3{
+    margin-left: 1em;
+}
+
+
